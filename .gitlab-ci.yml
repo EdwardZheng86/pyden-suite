@@ -26,7 +26,7 @@ appinspect:
       - pyden.tgz
       - pyden-manager.tgz
   tags:
-    - docker
+    - localhost
 
 splunkbase:
   stage: deploy
